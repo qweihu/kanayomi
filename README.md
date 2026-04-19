@@ -1,7 +1,6 @@
 <div align="center">
 
 # utayomi 
-### 歌読み
 
 <p align="center">
   <img src="screenshot/logo.svg" alt="utayomi Logo" height="40">
