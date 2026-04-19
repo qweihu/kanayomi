@@ -1,0 +1,45 @@
+{
+  "name": "utayomi",
+  "version": "1.0.0",
+  "description": "一个给日语歌词标注汉字读音和中文翻译的 skill，支持 URL 抓取和罗马音模式",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "PROMPT.md",
+    "README.md",
+    "scripts",
+    "requirements.txt",
+    "LICENSE",
+    "package.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qweihu/Utayomi.git"
+  },
+  "keywords": [
+    "skill",
+    "prompt",
+    "llm",
+    "japanese",
+    "lyrics",
+    "ruby",
+    "furigana",
+    "romaji",
+    "claude-code",
+    "codex",
+    "日语学习",
+    "日文歌词",
+    "假名标注",
+    "罗马音",
+    "五十音"
+  ],
+  "author": "qweihu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qweihu/Utayomi/issues"
+  },
+  "homepage": "https://github.com/qweihu/Utayomi#readme"
+}
